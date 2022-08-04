@@ -1,0 +1,2 @@
+# KarenBotRepository
+Projeto Karen Bot
