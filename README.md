@@ -1,7 +1,7 @@
 # KarenBotRepository
 Projeto Karen Bot
 
-# Como Instalar o Bit
+# Como Instalar o Bot
 1. COMANDO:
 
 termux-setup-storage && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install git -y && pkg install ffmpeg -y
