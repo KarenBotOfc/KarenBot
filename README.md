@@ -8,7 +8,7 @@ termux-setup-storage && pkg upgrade -y && pkg update -y && pkg install nodejs -y
 
 2. COMANDO:
 
-cd /sdcard && git clone http://github.com/LCzinnx/KarenBot.git && cd KarenBot
+cd /sdcard && git clone http://github.com/SrLC21/KarenBot.git && cd KarenBot
 
 3. COMANDO:
 
