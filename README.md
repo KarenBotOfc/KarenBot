@@ -1,4 +1,4 @@
-# KarenBot
+# KarenBotRepository
 Projeto Karen Bot
 
 # Como Instalar o Bot
