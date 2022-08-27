@@ -14,4 +14,4 @@ cd /sdcard && git clone http://github.com/LCzinnx/KarenBot.git && cd KarenBot
 
 sh karen.sh
 
-# Karen-Bot
+# KarenBot.md
