@@ -1,0 +1,44 @@
+{
+  "name": "yt-channel-info",
+  "version": "3.0.4",
+  "description": "Grab YouTube channel information without any official API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage",
+    "test-ci": "jest --verbose --ci  --coverage",
+    "lint-fix": "eslint --fix --ext .js,.ts ./",
+    "lint": "eslint --ext .js,.ts ./"
+  },
+  "keywords": [
+    "youtube",
+    "youtube-fetch",
+    "youtube-scrapper",
+    "youtube-grabber",
+    "youtube channel",
+    "youtube-channel",
+    "youtube playlist",
+    "youtube-playlist",
+    "youtube without api",
+    "youtube-fetcher"
+  ],
+  "author": "PrestonFT",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreeTubeApp/yt-channel-info"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^27.0.4"
+  }
+}

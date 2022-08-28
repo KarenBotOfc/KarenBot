@@ -1,0 +1,35 @@
+{
+  "name": "@rearguard/is-email",
+  "version": "1.9.6",
+  "description": "A fast email checker.",
+  "license": "MIT",
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.m.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "utility",
+    "email",
+    "validator"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proximahq/rearguard.git"
+  },
+  "scripts": {
+    "build": "rm -rf dist && rollup -c ../rollup.config.js --environment production",
+    "test": "ava",
+    "test:watch": "ava --watch",
+    "bump": "yarn publish --new-version $PACKAGE_VERSION",
+    "version": "yarn version --new-version $PACKAGE_VERSION --no-git-tag-version --no-commit-hooks"
+  },
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  },
+  "devDependencies": {}
+}
