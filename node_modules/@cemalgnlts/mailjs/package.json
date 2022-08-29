@@ -1,0 +1,24 @@
+{
+  "name": "@cemalgnlts/mailjs",
+  "version": "1.0.1",
+  "description": "A JavaScript wrapper around the [mail.tm](https://docs.mail.tm/) api.",
+  "main": "NodeJS/Mailjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemalgnlts/Mailjs.git"
+  },
+  "keywords": ["mail", "temp-mail"],
+  "files": ["README.md"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cemalgnlts/Mailjs/issues"
+  },
+  "homepage": "https://github.com/cemalgnlts/Mailjs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
