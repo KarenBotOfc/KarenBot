@@ -12,8 +12,9 @@ git clone http://github.com/SrLC21/KarenBot.git && cd KarenBot
 
 3. LINK DA node_modules:
 
-• Extraia o arquivo zip do link abaixo dentro da pasta KarenBot que vai estar localizada na memória do seu celular(sdcard)
+• Extraia o arquivo zip do link abaixo, na pasta KarenBot que vai estar localizada na memória do seu celular(sdcard)
 
+Link:
 https://www.mediafire.com/download/35y7cf2v1h637j1
 
 
