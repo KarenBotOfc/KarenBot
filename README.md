@@ -22,5 +22,5 @@ https://www.mediafire.com/download/35y7cf2v1h637j1
 
 sh karen.sh
 
-• Depois só escanear o QrCode pelo Whtasapp web do Whatsapp que vai ser utilizado pro Bot.
+• Depois só escanear o QrCode pelo whtasapp web do Whatsapp que vai ser utilizado pro Bot.
 # KarenBot.md
